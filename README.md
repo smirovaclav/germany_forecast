@@ -17,5 +17,5 @@ The main objective of this project is to create short- to medium-term forecasts 
 ## Key Findings
 
 * **Macroeconomic Forecast:** The primary SVAR model projects a "soft landing" for the German economy, with inflation falling below the ECB's 2% target and Real GDP returning to a modest expansionary path following a short-run contraction.
-* **Output Paradox:** Unconstrained models reveal that positive global oil price shocks generate a temporary expansion in German Real GDP growth. This paradox could be explained by international demand driving both commodity prices and German industrial exports. This hypothesis needs to by verify in furthure research by adding additional variables.
+* **Output Paradox:** Unconstrained models reveal that positive global oil price shocks generate a temporary expansion in German Real GDP growth. This paradox could be explained by international demand driving both commodity prices and German industrial exports. This hypothesis needs to by verify in further research by adding additional variables.
 * **Price Puzzle:** The models reveal the presence of a short-run price puzzle in the German economy.
